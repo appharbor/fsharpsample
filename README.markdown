@@ -1,0 +1,1 @@
+This is a sample F# ASP.NET MVC application. It's a stripped down version of [Tomas Petricek's example](http://tomasp.net/blog/fsharp-mvc-web.aspx), with FSharp.Core added to make it run out of the box on AppHarbor.
